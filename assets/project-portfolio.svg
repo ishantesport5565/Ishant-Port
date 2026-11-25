@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Responsive portfolio layout preview">
+  <rect width="400" height="260" fill="#0b0e14"/>
+  <rect x="28" y="30" width="250" height="196" rx="10" fill="#141923" stroke="#242d3d" stroke-width="2"/>
+  <rect x="28" y="30" width="250" height="26" rx="10" fill="#1b2230"/>
+  <circle cx="44" cy="43" r="4" fill="#ef4444"/>
+  <circle cx="57" cy="43" r="4" fill="#f59e0b"/>
+  <circle cx="70" cy="43" r="4" fill="#22c55e"/>
+  <rect x="44" y="72" width="110" height="12" rx="4" fill="#f1f5f9"/>
+  <rect x="44" y="92" width="90" height="10" rx="4" fill="#22d3ee"/>
+  <rect x="44" y="112" width="120" height="8" rx="4" fill="#475569"/>
+  <rect x="44" y="128" width="100" height="8" rx="4" fill="#334155"/>
+  <rect x="44" y="148" width="66" height="20" rx="10" fill="#22d3ee"/>
+  <circle cx="222" cy="112" r="32" fill="#1b2230" stroke="#22d3ee" stroke-width="2"/>
+  <rect x="44" y="182" width="66" height="30" rx="6" fill="#1b2230" stroke="#242d3d" stroke-width="1"/>
+  <rect x="120" y="182" width="66" height="30" rx="6" fill="#1b2230" stroke="#242d3d" stroke-width="1"/>
+  <rect x="196" y="182" width="66" height="30" rx="6" fill="#1b2230" stroke="#242d3d" stroke-width="1"/>
+  <rect x="292" y="72" width="84" height="154" rx="14" fill="#1b2230" stroke="#2e394d" stroke-width="2"/>
+  <rect x="300" y="86" width="68" height="126" rx="8" fill="#0b0e14"/>
+  <circle cx="334" cy="116" r="16" fill="#141923" stroke="#22d3ee" stroke-width="1.5"/>
+  <rect x="310" y="144" width="48" height="8" rx="4" fill="#f1f5f9"/>
+  <rect x="314" y="160" width="40" height="6" rx="3" fill="#475569"/>
+  <rect x="310" y="180" width="48" height="16" rx="8" fill="#22d3ee"/>
+</svg>
